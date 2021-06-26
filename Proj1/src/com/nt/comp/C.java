@@ -7,4 +7,8 @@ public class C {
 		//hey 123
 	}
 	
+	public  void hello() {
+		
+	}
+	
 }
