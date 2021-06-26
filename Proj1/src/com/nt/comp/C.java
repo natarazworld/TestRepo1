@@ -9,6 +9,7 @@ public class C {
 	
 	public  void hello() {
 		//123
+		//456
 	}
 	
 }
